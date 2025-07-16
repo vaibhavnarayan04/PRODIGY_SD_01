@@ -13,29 +13,6 @@ It allows users to convert temperature values between **Celsius**, **Fahrenheit*
 
 ---
 
-## 📷 Screenshot
-*(Add a screenshot of your app here if you have one)*  
-Example:
-```
-[Insert image or drag-and-drop screenshot here]
-```
-
----
-
-## 🚀 How to Run
-1. Make sure Python is installed on your machine.
-2. Clone the repository:
-```bash
-git clone https://github.com/your-username/temperature-converter.git
-```
-3. Run the Python file:
-```bash
-python temperature_converter.py
-```
-
----
-
-## 📂 Technologies Used
 - Python 🐍  
 - Tkinter 🖼️ (for GUI)
 
